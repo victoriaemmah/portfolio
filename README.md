@@ -12,4 +12,4 @@ merging.ipynb: This is a Jupyter Notebook that takes raw, NHS data from multiple
 
 ntpro_analysis.ipynb: This is a Jupyter Notebook for looking at the link between a blood biomarker and frailty score. As the paper is still currently under review, I have had to remove a lot of the analysis; however, I have shown here the initial exploratory analysis. 
 
-I would like to note that these were written intended for my own use and for specific datasets. As such, I acknowledge that they cannot easily be applied to other datasets.
+I would like to note that these were written intended for my own use and for specific datasets. As such, I acknowledge that they cannot easily be applied to other datasets. I am also unable to show a significant amount of my code externally as the work is still under review.
