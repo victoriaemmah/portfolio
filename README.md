@@ -10,4 +10,6 @@ charlson_analysis.ipynb: This is a Jupyter Notebook that reads a dataset of raw 
 
 merging.ipynb: This is a Jupyter Notebook that takes raw, NHS data from multiple sources and merges them together based on patient identity and admission date, ensuring that they are matched on an episode-by-episode basis. NHS data is inherently messy and there are inconsistencies across the datasets, as such the code is messy and repetitive to deal with this. I have noted these in the comments.
 
+ntpro_analysis.ipynb: This is a Jupyter Notebook for looking at the link between a blood biomarker and frailty score. As the paper is still currently under review, I have had to remove a lot of the analysis; however, I have shown here the initial exploratory analysis. 
+
 I would like to note that these were written intended for my own use and for specific datasets. As such, I acknowledge that they cannot easily be applied to other datasets.
